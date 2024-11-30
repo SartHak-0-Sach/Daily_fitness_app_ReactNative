@@ -4,24 +4,24 @@
 
 ## 📜 Table of Contents
 
-- [Overview](#overview)
-  - [The Challenge](#the-challenge)
-  - [How to Setup the Project](#how-to-setup-the-project)
-  - [Demo Screenshot](#demo-screenshot)
-  - [Links](#links)
-- [🚀 How to Run](#how-to-run)
-- [🔨 How to Build](#how-to-build)
-- [👀 How to Preview the Build](#how-to-preview-the-build)
-- [🌐 How to Host](#how-to-host)
-- [🛠️ My Process](#my-process)
-  - [Built with](#built-with)
-  - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
-- [🏁 Get Started](#get-started)
-  - [Run the App](#run-the-app)
-- [✍️ Author](#author)
-- [🙏 Acknowledgments](#acknowledgments)
+- [🌟 Overview](#-overview)
+  - [🔥 The Challenge](#-the-challenge)
+  - [🛠️ How to Setup the Project](#-how-to-setup-the-project)
+  - [🎥 Demo Screenshot](#-demo-screenshot)
+  - [🔗 Links](#-links)
+- [🚀 How to Run](#-how-to-run)
+- [🔨 How to Build](#-how-to-build)
+- [👀 How to Preview the Build](#-how-to-preview-the-build)
+- [🌐 How to Host](#-how-to-host)
+- [🛠️ My Process](#-my-process)
+  - [🧰 Built With](#-built-with)
+  - [💡 What I Learned](#-what-i-learned)
+  - [🚀 Continued Development](#-continued-development)
+  - [📚 Useful Resources](#-useful-resources)
+- [🏁 Get Started](#-get-started)
+  - [🏃🏻‍➡️ Run the App](#-run-the-app)
+- [✍️ Author](#-author)
+- [🙏 Acknowledgments](#-acknowledgments)
 
 ## 🌟 Overview
 
@@ -172,7 +172,7 @@ Install development dependencies:
 npm install
 ```
 
-### Run the App
+### 🏃🏻‍➡️ Run the App
 
 #### 🚀 Start in Development Mode:
 ```bash
