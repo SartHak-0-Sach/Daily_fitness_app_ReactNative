@@ -6,7 +6,7 @@
 
 - [🌟 Overview](#-overview)
   - [🔥 The Challenge](#-the-challenge)
-  - [🛠️ How to Setup the Project](#-how-to-setup-the-project)
+  - [🛠️ How to Setup The Project](#-how-to-setup-the-project)
   - [🎥 Demo Screenshot](#-demo-screenshot)
   - [🔗 Links](#-links)
 - [🚀 How to Run](#-how-to-run)
